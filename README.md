@@ -1,2 +1,2 @@
 # Yahtzee
-ENGR 102 Final Group Project
+Fully functional Multiplayer Yahtzee playable in ascii art in the terminal. 
